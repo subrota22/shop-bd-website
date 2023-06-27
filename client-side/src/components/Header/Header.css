@@ -1,0 +1,31 @@
+
+.logo{
+    height: 105px;
+    width: 118px;
+}
+.header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+background-color: rgba(31, 4, 56, 0.8);
+padding: 20px 7px;
+}
+.linkDiv > a {
+    text-decoration: none;
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.linkDiv {margin-top: 30px;}
+.linkDiv > a:hover{
+    color: orange;
+}
+.activeStyle{
+    color: lime;
+    font-size: 25px;
+}
+@media(max-width:1000px){
+    .linkDiv{display: flex; flex-direction: column-reverse; background-color: rgb(189, 18, 98);}
+    .header{background-color: rgb(189, 18, 98);}
+}

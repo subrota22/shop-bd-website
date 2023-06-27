@@ -1,0 +1,45 @@
+
+.ProductImage{
+    height:100px;
+    width: 120px;
+    align-items: center;
+    padding: 10% 8% ;
+    border-radius: 10px;
+    padding-left: 12px;
+}
+
+.cart-details-info{
+    border: 2px solid gray;
+    border-radius: 5px;
+     display: grid;
+     grid-template-columns: 3fr 4fr 1fr;
+     gap: 5px;
+     margin-top: 27px;
+     margin-bottom: 27px;
+     margin-left: 30%;
+     margin-right: 30%;
+     font-size: 15px;
+     font-weight: bold;
+     color: deeppink;
+}
+
+#deleteButton{
+height: 58px;
+width: 58px;
+border-radius: 50%;
+background-color: rgba(220, 20, 60, 0.4);
+align-items: center;
+border: none;
+margin: 50% 0%;
+margin-right: 12px;
+color: rgba(153, 51, 73, 0.753);
+font-size: 25px;
+text-align: center;
+align-items: center;
+}
+
+#deleteButton:hover{
+    cursor: pointer; 
+    background-color: rgba(128, 255, 0, 0.5);
+    color: lightseagreen;
+}

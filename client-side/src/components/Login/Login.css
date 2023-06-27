@@ -1,0 +1,16 @@
+
+.loader{
+margin:auto;
+justify-content: center;
+margin-top: 12%;
+}
+
+.loginDivStyle{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin: 10%;
+background-color: #8917D0;
+padding: 10% 10px ;
+border-radius: 25px;
+}

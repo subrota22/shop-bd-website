@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    *{
+        color: blueviolet;
+    }
+    .gridVai{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ gap: 20px;
+ background-color: lime;
+    }
+    .span{
+        height: 250px;
+        width: 250px;
+        background-color: black;
+        color: white;
+    }
+    p{color: blue;}
+    #goat{color: red;}
+    .text{
+      justify-content: space-evenly;
+      display: flex;
+      flex-direction: column-reverse;
+    }
+    .title{
+        background-color: aqua;
+        padding: 50px;
+        font-size: 20px;
+        color: coral;
+        border-radius: 10px;
+        margin: 10px 20px;
+    }
+    .sundorigo{
+        padding: 20px;
+        background-color: darkcyan;
+        align-items: center;
+    }
+    p::before{
+    content: "I love you suna !! ";
+    }
+    .divCheck{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    }
+    .myDiv{
+        height: 200px;
+        width: 200px;
+        background-color: rebeccapurple;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid vai </title>
+</head>
+<body>
+ <div class="gridVai">
+    <div class="divChild">Hell grid vai-1</div>
+    <div class="divChild">Hell grid vai-2</div>
+    <div class="divChild">Hell grid vai-3</div>
+    <div class="divChild">Hell grid vai-4</div>
+ </div>
+ <span class="span">Hello</span>
+ <p>pargraph-1</p>
+ <p>pargraph-2</p>
+ <p>pargraph-3</p>
+ <p>pargraph-4</p>
+ <p>pargraph-5</p>
+ <p>pargraph-6</p>
+ <p>pargraph-7</p>
+ <p>pargraph-8</p>
+ <p>pargraph-9</p>
+ <p>pargraph-10</p>
+
+ <p>I am your ex</p>
+<p id="goat"> I am your next </p>
+<div class="text">
+<h2> Show me the text in the middle </h2>
+<h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam, eveniet fugit voluptas voluptatum accusantium, reprehenderit consequuntur voluptatem voluptate dicta enim dolore porro sed dolorem dignissimos aliquid vitae odit recusandae. Error.</h3>
+<div class="sundorigo">
+    <h1 class="title">Awesome Heading
+</div>
+</div>
+<div class="divCheck">
+<div class="myDiv">Show my flex-1</div>
+<div class="myDiv">Show my flex-2</div>
+<div class="myDiv">Show my flex-3</div>
+<div class="myDiv">Show my flex-4</div>
+</div>
+</body>
+</html>

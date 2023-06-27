@@ -1,0 +1,84 @@
+[
+    {
+         "id" : 1 ,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-IcZZ08kp0XIeFe3LNjWUCM7YgFUEy24TIQ&usqp=CAU" ,
+        "bookName" : "Math" ,
+        "description" : "Clifford Pickover, prolific writer and undisputed polymath, has put together a marvelous reference work. Its 250 short entries provide a veritable history of mathematics by focusing on its greatest theorems and the geniuses who discovered them." ,
+        "duration" : 7200 ,
+        "age" : "18-20" 
+
+
+     } ,
+     {
+        "id" : 2 ,
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6LMFN8EiC3o8DLYM-GnLKuzjvXfGyy_mBA&usqp=CAU" , 
+      "bookName" : "Biology" ,
+      "description" : "Synthetic biology (SynBio) is a field of science that involves engineering life for human benefit. It has the potential to reshape many facets of society—from the ways we produce food, to how we detect and cure diseases." ,
+      "duration" :  7100 , 
+      "age" : "15-20" 
+
+     } ,
+     {
+        "id" : 3 ,
+        "image" : "https://i0.wp.com/academiamag.com/wp-content/uploads/2022/04/205263116_792642041394366_3130998074868714969_n.jpg?fit=707%2C397&ssl=1" , 
+        "bookName" : "Zoology" ,
+        "description" : "" ,
+        "duration" :  "Zoology makes a huge impact on our world through the scientific study of the evolution, anatomy, physiology, behavior, habitats, and health of animals and humans. It includes diverse approaches such as electron microscopy, molecular genetics, and field ecology." , 
+        "age" : "18-21" 
+  
+       } ,   
+      {
+        "id" : 4 ,
+        "image" : "https://cdn1.byjus.com/wp-content/uploads/2016/07/180.png" , 
+        "bookName" : "Botanic" ,
+        "description" : "The term ‘botany’ is derived from an adjective ‘botanic’ that is again derived from the Greek word ‘botane’. One who studies ‘botany’ is known as a ‘botanist’. Botany is one of the world’s oldest natural sciences. Initially, Botany included all the plant-like organisms such as algae, lichens, ferns, fungi, mosses along with actual plants. Later on, it was observed that bacteria, algae and fungi belong to a different kingdom." ,
+        "duration" :  7350 , 
+        "age" : "19-22" 
+  
+       } ,   
+         {
+        "id" : 5 ,
+        "image" : "https://elearning.org.bd/pluginfile.php/13361/course/overviewfiles/5428546ee0575a445a44b997988de1f1.jpg" , 
+        "bookName" : "Physics" ,
+        "description" : "Physics helps us to organize the universe. It deals with fundamentals, and helps us to see the connections between seemly disparate phenomena. Physics gives us powerful tools to help us to express our creativity, to see the world in new ways and then to change it." ,
+        "duration" :  5650 , 
+        "age" : "18-23" 
+  
+       } ,   
+         {
+            "id" : 6 ,
+        "image" : "https://media.defense.gov/2020/May/07/2002296174/2000/2000/0/200401-M-BR906-002.JPG" , 
+        "bookName" : "Physical excrecise" ,
+        "description" : "When I was in high school, I was in the Marine Corps Junior Reserve Officer Training Corps (MCJROTC); I also was a member of the school’s cross country team. I saw differing perspectives between MCJROTC and cross country concerning fitness. This was because cross country is all about running, staying fit, and becoming stronger. MCJROTC was not focused on running; the program’s regimen was instead about crunches, push-ups, and pull-ups. My perspective on being physically fit changed when I joined the program, because you are using different muscles in the body and following a different mind-set. " ,
+        "duration" :  1800, 
+        "age" : "18-32" 
+  
+       } ,  
+          {
+            "id" : 7 ,
+        "image" : "https://ih1.redbubble.net/image.848589511.1991/st,small,507x507-pad,600x600,f8f8f8.jpg" , 
+        "bookName" : "English" ,
+        "description" :  "Knowledge of English equips you with the tools to travel and communicate more effectively in so many parts of the world, which, in turn, allows to you to explore and travel more confidently and to learn more about the countries and cultures you visit.." ,
+        "duration" :  7200, 
+        "age" : "12-25" 
+  
+       } , 
+       {
+        "id" : 8 ,
+        "image" : "https://www.mathsisfun.com/calculus/images/integral-tap-tank-constant.svg" , 
+        "bookName" : "Integral" ,
+        "description" : "Integration can be used to find areas, volumes, central points and many useful things. But it is easiest to start with finding the area between a function and the x-axis working something accumulate." ,
+        "duration" :  7500 , 
+        "age" : "19-27" 
+  
+       }  , 
+       {
+        "id" : 9 ,
+        "image" : "https://images.lavoisier.net/couvertures/1317279481.jpg" ,
+        "bookName": "T-Cell Differentiation" ,
+        "description": "T-Cell Differentiation" ,
+        "duration" : "This volume provides protocols to successfully apply cutting-edge technologies to characterize the biology of T cells at an unprecedented level of complexity. Chapters guide readers through flow cytometry and fluorescence-activated cell sorting, the behaviour of single T cells after adoptive cell transfer (ACT), single cell gene expression by multiplex PCR, lentiviral transduction approaches, protocols to derive large numbers." ,
+        "age" : "19-30"  
+       }
+
+]

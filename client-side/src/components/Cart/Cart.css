@@ -1,0 +1,26 @@
+
+.cart-info{
+    position: sticky;
+    top: 0% ;
+    padding:10px;
+}
+#hr{
+    background-color: aqua;
+    height: 3px;
+    border-radius: 10px;
+}
+.cartClear{
+    border: none;
+    width: 100%;
+    padding: 8px;
+    border-radius: 7px;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    margin: 5% 0%;
+}
+.cartClear:hover{
+    background-color: rgb(58, 216, 10);
+    cursor: pointer;
+}
